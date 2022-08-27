@@ -11,9 +11,9 @@ I'm currently learning towards becoming a full stack developer<br>I like cats (r
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23323330.svg?style=for-the-badge&logo=archlinux&color=282828)
 
 # 🐙 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aurum77&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aurum77&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurum77&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aurum77&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aurum77&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurum77&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aurum77&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aurum77&icon=5&color=4)](https://visitcount.itsvg.in)
