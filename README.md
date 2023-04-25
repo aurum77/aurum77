@@ -17,7 +17,7 @@ I'm currently learning towards becoming a full stack developer<br>I like cats (r
 ![ASP.NET](https://img.shields.io/badge/asp.net-%23323330.svg?style=for-the-badge&logo=dotnet&color=282828)
 ![Git VCS](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&color=282828)
 ![Neovim](https://img.shields.io/badge/neovim-%23323330.svg?style=for-the-badge&logo=neovim&color=282828)
-![Fedora Linux](https://img.shields.io/badge/fedora_linux-%23323330.svg?style=for-the-badge&logo=fedora&color=282828)
+![Arch Linux](https://img.shields.io/badge/arch_linux-%23323330.svg?style=for-the-badge&logo=archlinux&color=282828)
 
 # 🐙 GitHub Stats:
 
