@@ -1,6 +1,6 @@
 # 🐱 About Me:
 
-I'm currently learning towards becoming a full stack developer<br>I like cats (really though, if you were to print all the cat photos in my gallery, you could probably circle the earth)
+I'm currently learning towards becoming a full stack developer<br>I like cats (really though, if you were to print all the cat photos in my gallery, you could probably circle the earth [or the moon at least])
 
 # 🐧 Tools/Frameworks/Languages I use(d):
 
@@ -15,9 +15,10 @@ I'm currently learning towards becoming a full stack developer<br>I like cats (r
 ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=2965f1&color=282828&)
 ![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&color=282828)
 ![ASP.NET](https://img.shields.io/badge/asp.net-%23323330.svg?style=for-the-badge&logo=dotnet&color=282828)
+![Flutter](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&color=282828)
 ![Git VCS](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&color=282828)
 ![Neovim](https://img.shields.io/badge/neovim-%23323330.svg?style=for-the-badge&logo=neovim&color=282828)
-![Arch Linux](https://img.shields.io/badge/arch_linux-%23323330.svg?style=for-the-badge&logo=archlinux&color=282828)
+![Fedora Linux](https://img.shields.io/badge/fedora_linux-%23323330.svg?style=for-the-badge&logo=fedora&color=282828)
 
 # 🐙 GitHub Stats:
 
